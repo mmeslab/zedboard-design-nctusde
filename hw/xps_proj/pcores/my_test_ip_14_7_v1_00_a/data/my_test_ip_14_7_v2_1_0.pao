@@ -1,0 +1,10 @@
+##############################################################################
+## Filename:          M:/NCTUSE/ZedBoard_Linux_Design_with_IPI-14_7/hw/xps_proj/pcores/my_test_ip_14_7_v1_00_a/data/my_test_ip_14_7_v2_1_0.pao
+## Description:       Peripheral Analysis Order
+## Date:              Tue Dec 10 19:19:12 2013 (by Create and Import Peripheral Wizard)
+##############################################################################
+
+lib proc_common_v3_00_a  all 
+lib axi_lite_ipif_v1_01_a  all 
+lib my_test_ip_14_7_v1_00_a user_logic verilog
+lib my_test_ip_14_7_v1_00_a my_test_ip_14_7 vhdl

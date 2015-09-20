@@ -13,7 +13,7 @@ UserCmd1Type: 0
 UserCmd2: 
 UserCmd2Type: 0
 GenSimTB: 0
-SdkExportBmmBit: 1
+SdkExportBmmBit: 0
 SdkExportDir: SDK/SDK_Export
 InsertNoPads: 0
 WarnForEAArch: 1
@@ -24,6 +24,7 @@ UcfFile: data/system.ucf
 EnableParTimingError: 1
 ShowLicenseDialog: 1
 BInfo: 
+LockAddr: axi_dma_i2s,C_BASEADDR
 Processor: processing_system7_0
 ElfImp: 
 ElfSim: 

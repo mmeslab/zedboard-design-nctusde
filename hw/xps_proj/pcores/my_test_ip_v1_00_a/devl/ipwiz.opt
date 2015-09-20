@@ -1,0 +1,8 @@
+-batch 
+-create my_test_ip 
+-ver 1.00.a 
+-dir "M:\NCTUSE\ZedBoard_Linux_Design_with_IPI\hw\xps_proj" 
+-lang verilog 
+-bus axi4lite s 
+-reg 10 
+-xps 
