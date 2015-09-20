@@ -1,0 +1,9 @@
+Saved contents of this file to system_log.14.6 during revup to EDK 14.7.
+
+Xilinx Platform Studio (XPS)
+Xilinx EDK 14.7 Build EDK_P.20131013
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+
+WARNING:EDK:4083 - IPNAME: processing_system7, INSTANCE: processing_system7_0 -  PARAMETER: C_NUM_F2P_INTR_INPUTS has value 4 specified in MHS, but tcl is overriding the value to 7 - Y:\zedboard\ZedBoard_Linux_Design_14_4_new\hw\xps_proj\system.mhs line 127 
+WARNING:EDK:4083 - IPNAME: processing_system7, INSTANCE: processing_system7_0 -  PARAMETER: C_NUM_F2P_INTR_INPUTS has value 4 specified in MHS, but tcl is overriding the value to 7 - Y:\zedboard\ZedBoard_Linux_Design_14_4_new\hw\xps_proj\system.mhs line 127 
+WARNING:EDK:4083 - IPNAME: processing_system7, INSTANCE: processing_system7_0 -  PARAMETER: C_NUM_F2P_INTR_INPUTS has value 4 specified in MHS, but tcl is overriding the value to 7 - Y:\zedboard\ZedBoard_Linux_Design_14_4_new\hw\xps_proj\system.mhs line 127 
